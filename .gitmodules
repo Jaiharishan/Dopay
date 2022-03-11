@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Jaiharishan/DOPAY-Backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Jaiharishan/DOPAY-Frontend
