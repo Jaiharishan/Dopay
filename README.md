@@ -30,6 +30,10 @@ A payment regulation app which allows users and organizations to keep updated ab
 - Dynamic routes of organizations and other pages are made using NEXT.
 - Backend routes are tested using Postman
 
+## Documentation
+
+For API documentation view https://documenter.getpostman.com/view/17530591/UVsJvmkp.
+
 ## Local setup - Frontend
 
 create a folder named frontend
